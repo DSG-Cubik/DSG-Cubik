@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on Lethal Company mods 
 - 🌱 I’m currently learning Lethal SDK structure 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DSG-Cubik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/DSG-Cubik)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DSG-Cubik&show_icons=true)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DSG-Cubik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/DSG-Cubik)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DSG-Cubik)

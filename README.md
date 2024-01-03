@@ -1,6 +1,5 @@
 ![Dream State Games ](https://yt3.googleusercontent.com/CbMQTBzJNdFDfHUA-AHfDm3lQXwofOltseY0aYxH1FWpOORp-INukf22a2dggjN1XJO5g65kdA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 # DSG-Cubik
-I really enjoy the learning process of modding and game development I still consider myself an amateur but you gotta start somewhere.
 - 🔭 I’m currently working on Lethal Company mods 
 - 🌱 I’m currently learning Lethal SDK structure 
 
